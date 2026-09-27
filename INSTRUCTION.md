@@ -1,7 +1,7 @@
 To create all dependencies run:
 ```
 chmod +x bootstrap.sh
-./bootstrap
+./bootstrap.sh
 ```
 
 To validate if the Affinity and Anti-Affinity work:
