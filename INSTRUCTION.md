@@ -4,7 +4,7 @@ chmod +x bootstrap.sh
 ./bootstrap
 ```
 
-To vaidate if the Affinity and Anti-Affinity work:
+To validate if the Affinity and Anti-Affinity work:
 ```
 kubectl get pods -n todoapp -o wide
 kubectl get pods -n mysql  -o wide
